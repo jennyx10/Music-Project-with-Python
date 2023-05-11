@@ -1,4 +1,4 @@
-# Music Project with Python 
+# Music Genre Project with Python 
 *  This section is a Python project introduing a basic command coding for a music genre model
 *  In this project, we gave a detailed analysis to music genre where basic music features are displayed in the music dataframe. 
 *  The purpose of our study is to provide an insight on how music genre influences people's life 
